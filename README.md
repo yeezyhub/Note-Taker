@@ -2,6 +2,12 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+## Deployed Website
+  [Note Taker - Heroku Deployment](https://note-taker-heroku-deployment.herokuapp.com/)
+
+  
+
 ## Description
 
   During an active day, people have a lot of tasks and responsibilities in their mind. Sometimes, as humans we tend to forget things. Because of that reason, I developed a note taker application that can help people struggling with memorizing everything. This application uses the power of Node.js, Express.js and UUID npm package.
